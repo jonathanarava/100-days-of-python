@@ -1,0 +1,14 @@
+#Data Types
+
+#String (of characters)
+print("Hello"[4]) #subscript example
+
+#Integer
+print(123_456) # same as 123,456
+
+#Float
+3.14159
+
+#Boolean
+True
+False
