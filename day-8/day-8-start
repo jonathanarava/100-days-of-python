@@ -1,0 +1,28 @@
+# # Review: 
+# # Create a function called greet(). 
+# # Write 3 print statements inside the function.
+# def greet():
+# 	print("Welcome\n ")
+# 	print("I hope you are doing well.\n")
+# 	print("*THE END*")
+
+# # Call the greet() function and run your code.
+# greet()
+
+# #function that allows for input
+
+# def greet_with_name(name):
+# 	print(type(name))
+# 	print(f"Hello {name}")
+# 	print(f"How do you do {name}")
+
+# greet_with_name("Angela")
+
+# Functions with more than 1 input
+def greet_with(name, location):
+	print(f"Hello {name}.\nWhat is it like in {location}?")
+
+greet_with("Jonathan", "Jamaica")
+
+# Functions with keyword arguments
+greet_with(name="Angela", location="London")
