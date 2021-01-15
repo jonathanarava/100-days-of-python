@@ -1,5 +1,5 @@
 # Snake Game
-- Part 1: Day 20
+- Part 1: Day 20  (current folder)
   - create a snake body
   - move the snake
   - control the snake
