@@ -2,4 +2,4 @@
 
 Pomodoro Project
 
-![Alt text](relative/path/to/img.jpg?raw=true "pom_1.PNG")
+![Pomodoro Screenshot](100-days-of-python/day-28/pom_1.PNG)
