@@ -2,4 +2,4 @@
 
 Pomodoro Project
 
-![Pomodoro Screenshot](100-days-of-python/day-28/pom_1.PNG)
+![Pomodoro Screenshot](https://github.com/jonathanarava/100-days-of-python/blob/my_code/day-28/pom_1.PNG)
