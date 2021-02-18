@@ -1,0 +1,7 @@
+{'website': 'amazon', 'email_or_username': 'JohnDoe@example.com', 'password': '*)1NdphQEU8qpP*'}
+{'website': 'asdf', 'email_or_username': 'JohnDoe@example.com', 'password': 'O4bD67rK%dO$w2(a'}
+{'haha': {'email_or_username': 'JohnDoe@example.com', 'password': 'MmY9Wp(R$1NQ0Dl'}}
+{'fun': {'email_or_username': 'JohnDoe@example.com', 'password': '2UGB3q6#D&sTp6l'}}
+{'hope': {'email_or_username': 'JohnDoe@example.com', 'password': 'MlLq60Hu%H(6&YHz+'}}
+{'github': {'email_or_username': 'JohnDoe@example.com', 'password': 'Zm&BtSRoGB(2K4'}}
+{'HotMail': {'email_or_username': 'JohnDoe@example.com', 'password': '8a7V(q)S#6Io%mS'}}
