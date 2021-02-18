@@ -12,4 +12,5 @@ Day 30:
 * saves credentials to local json file  (with day 29 field checks + error handling)
 * Addition feature (added search button): able to search for saved credentials from local json file
 
-![Screenshot 1](https://github.com/jonathanarava/100-days-of-python/blob/my_code/day-30/password-manager-start/pass_gen_v2_snip.PNG)
+<img src="https://github.com/jonathanarava/100-days-of-python/blob/my_code/day-30/password-manager-start/pass_gen_v2_snip.PNG" width="480" height="400">
+
