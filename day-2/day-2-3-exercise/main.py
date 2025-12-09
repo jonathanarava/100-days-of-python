@@ -2,7 +2,7 @@
 age = input("What is your current age?")
 # 🚨 Don't change the code above 👆
 
-#Write your code below this line 👇
+# Write your code below this line 👇
 
 age_as_int = int(age)
 
@@ -14,9 +14,3 @@ months_remaining = years_remaining * 12
 message = f"You have {days_remaining} days, {weeks_remaining} weeks, and {months_remaining} months left"
 
 print(message)
-
-
-
-
-
-
